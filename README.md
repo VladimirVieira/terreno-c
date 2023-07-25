@@ -20,7 +20,7 @@ O programa não aceita os seguintes parâmetros de configuração em linha de co
 Para compilar o usuário deve extrair todos os arquivos da pasta ProjetoVladimir. E para utiliza-los sugerimos o uso da IDE online Replit, pois suporta programas desenvolvidos em linguagem C.
 Para gerar um arquivo executável digite no shell o seguinte comando:
 
-gcc terreno1.c alturaPontos.c imprimir.c -o terrain -g -W
+-        gcc terreno1.c alturaPontos.c imprimir.c -o terrain -g -W
 
 Por fim para obter a imagem execute o arquivo gerado com o seguinte comando:
-./terrain
+-      ./terrain

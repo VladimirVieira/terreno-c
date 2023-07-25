@@ -6,7 +6,8 @@ Foi feito um programa  em linguagem C para a Geração Aleatória de Terrenos, e
 -        Pode-se verificar a modularização em diferentes arquivos, ou seja, o uso de diferentes arquivos .c que compreendem: terreno1.c, alturaPontos.c e imprimir.c; e arquivos .h, no caso, alturaPontos.h e imprimir.h. Cada um destes arquivos apresenta funcionalidade específicas;
 -        Pode-se verificar um padrão de indentação do código fonte e de nomenclatura das sub-rotinas e variáveis, e a adequação a este padrão;
 -        Pode-se verificar uma documentação do código-fonte;
-        Além disso, pode-se realizar a gravação de arquivos de imagem.
+
+  Além disso, pode-se realizar a gravação de arquivos de imagem.
 
 # O que não foi feito:
 
